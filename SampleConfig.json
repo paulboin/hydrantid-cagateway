@@ -29,8 +29,8 @@
 		"AutoEnrollment - ECDSA": {
 			"ProductID": "AutoEnrollment - ECDSA",
 			"Parameters": {
-				"ValidityPeriod": "Years",
-				"ValidityUnits": 1
+				"ValidityPeriod": "Months",
+				"ValidityUnits": 12
 			}
 		},
 		"AutoEnrollment - ECDSA - 7 Day": {
@@ -43,8 +43,8 @@
 		"AutoEnrollment - RSA": {
 			"ProductID": "AutoEnrollment - RSA",
 			"Parameters": {
-				"ValidityPeriod": "Years",
-				"ValidityUnits": 1
+				"ValidityPeriod": "Months",
+				"ValidityUnits": 12
 			}
 		},
 		"AutoEnrollment - RSA - 7 Day": {
